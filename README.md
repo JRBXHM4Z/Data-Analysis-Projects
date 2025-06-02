@@ -1,7 +1,7 @@
 # Excel Projects
 
 1. [Adidas Sales Analysis](https://github.com/JRBXHM4Z/Adidas-Sales) : US Adidas sales via interactive Excel dashboard
-2. 
+2. Pending
 
 # SQL Projects
 
