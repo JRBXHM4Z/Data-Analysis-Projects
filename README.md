@@ -6,4 +6,13 @@
 # SQL Projects
 
 1. [Bank Marketing Analysis](https://github.com/JRBXHM4Z/Bank-Marketing-Analysis) : Evaluating Bank Marketing Strategies
-2. [Supermarket Sales Analysis](https://github.com/JRBXHM4Z/Supermarket-Sales-Analysis): Supermarket Sales Insights using SQL
+2. [Supermarket Sales Analysis](https://github.com/JRBXHM4Z/Supermarket-Sales-Analysis) : Supermarket Sales Insights using SQL
+
+# Power BI Projects
+1.  Pending
+2.  Pending
+
+# Python Projects
+
+1. Pending
+2. Pending
